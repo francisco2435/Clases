@@ -1,2 +1,14 @@
+Clase 1:
 Curso java desde cero de Todocode:
 https://www.youtube.com/playlist?list=PLQxX2eiEaqbwxYrMUJ6gRz82mLzUeeJy9
+
+Clase 2:
+Link lucid clase 2:
+https://lucid.app/lucidchart/24b83d81-d1e8-474e-bb55-17f9c3f3c70b/edit?page=0_0&invitationId=inv_55d2c5f5-b7b7-40de-b407-199740141bc4#
+
+Diagrama de clases explicado de otra forma:
+https://www.youtube.com/watch?v=Z0yLerU0g-Q
+
+Explicación de diagrama de flujo con ejercicios resueltos:
+https://www.youtube.com/watch?v=aFZX20Cb9S8
+
